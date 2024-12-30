@@ -1,11 +1,9 @@
 # Node.js specific
 node_modules/
-npm-debug.log*
+pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.pnp/
-.pnp.js
-pnpm-lock.yaml
+
 
 # Logs
 logs/
